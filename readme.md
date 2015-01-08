@@ -1,5 +1,5 @@
 # Biljettautomat 1 #
-
+b
 Den här uppgiften går ut på att skriva en del av mjukvaran i en biljettautomat för pendeltåg.
 
 ## Bedömningsmatris ##
